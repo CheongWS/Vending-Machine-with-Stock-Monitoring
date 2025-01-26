@@ -1,0 +1,10 @@
+Coca Cola|2|20
+Kit Kat|1.5|20
+Lays|4|20
+M&M|2|20
+Maggi Hot Cup|3|20
+Milo|2.5|20
+Nescafe Coffee|3|20
+Oreo|2|20
+Pepsi|2|20
+Sprite|1.5|20

@@ -1,0 +1,5 @@
+Coca Cola|2|5|10
+Sprite|1.5|5|7.5
+Oreo|2|5|10
+Coca Cola|2|5|10
+Coca Cola|2|1|2
